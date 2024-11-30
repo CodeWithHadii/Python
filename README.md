@@ -19,6 +19,9 @@ Currently, we have:
 ### 1. **[Password Generator](./Basic/password.py)**  
 A simple Python program that generates secure passwords based on user-defined criteria.
 
+### 2. **[File Organizer](https://github.com/CodeWithHadii/Python/blob/main/Basic/file_organizer.py)**  
+An advanced Python script that helps organize files in a directory into various categories based on file types.
+
 ---
 
 ## 🔧 Intermediate Level Projects
@@ -45,6 +48,3 @@ git clone https://github.com/CodeWithHadii/Python.git
 cd Python
 python Basic/password.py
 ```
-
-📝 License
-This repository is open-source and available under the MIT License.
